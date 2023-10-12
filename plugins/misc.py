@@ -9,7 +9,7 @@ async def start(bot, message):
     await message.reply(text=script.START.format(message.from_user.mention),
                         disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⇄  ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ⇄', url=f'http://telegram.me/Moviesrnsbot?startgroup=true')
-            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/netflixvilla_india"),
+            ],[InlineKeyboardButton("ʜᴇʟᴘ", url="http://telegram.me/netflixrequest021"),
 
 InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_help")],[InlineKeyboardButton('❂   ᴏᴜʀ  ᴜᴘᴅᴀᴛᴇꜱ  ᴄʜᴀɴɴᴇʟ   ❂', url=f'http://telegram.me/netflixvilla_india')]]))  
 @Client.on_message(filters.command("help"))
