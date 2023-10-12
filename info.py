@@ -1,7 +1,7 @@
 API_ID       = 23762978
 API_HASH     = "eff30dac5504a8660e69bfe19f668571"
 BOT_TOKEN    = "6539307245:AAH_yBu2LZosKVumzDZ657gafNxU9PLCRTI"
-SESSION      = ""
+SESSION      = "BQFqmCIAaNFFWWVUX-MhnwwXfL2_HYgNZbfeu6-uWxe_-ang9ITlGoISdN77o1EgYlwVxvjX0n2QQJCvPViX8nPlNdTFHwUhPQ0YZ9Tu7l-F-MUWzwygsI6Bgu44OdbBcLQNZipchFPWy6jnvmH130cuYIQajYrNiyY36s5JmqlfS8MWqosQTfh9NPTtj3qmkbLgismTDkCX5EksKRS_t_NmRCdH8lBGVUbev_5O5USdBYOXd4ImMAu8cjDpvcuJUGWmT64-PmbvFVbXRC-9ZkSalU3pXAeMAHyXb1iwnuKt35h3Bcl0Ypf_3ImPDlGWWG9V3U99a-4cyK_b-Xd5dicN8DDjwwAAAABIf2IgAA"
 DATABASE_URI = "mongodb+srv://hebapir376:ravi1234@cluster0.x9pmpfx.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  =
 ADMIN        = 1216307744
